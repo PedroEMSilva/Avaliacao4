@@ -26,7 +26,7 @@ public class Avaliacao4 {
         agenda.novoAviso(c2, 11);
         agenda.novoAviso(c2, 7);
         agenda.novoAviso(c2, 6, 1);
-     
+        
         System.out.println("Pressione Enter para terminar...");
         System.in.read();
         agenda.destroi();
